@@ -1,0 +1,9 @@
+Package: de.haitx3004.nopagedots
+Name: nopagedots
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide page dots on home screen
+Maintainer: HaiTX3004
+Author: HaiTX3004
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
